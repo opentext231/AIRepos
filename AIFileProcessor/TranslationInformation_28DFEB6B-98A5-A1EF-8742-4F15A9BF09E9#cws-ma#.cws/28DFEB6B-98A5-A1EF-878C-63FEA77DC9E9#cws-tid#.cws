@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="28DFEB6B-98A5-A1EF-878C-63FEA77E09E9">
+	<DocumentID>28DFEB6B-98A5-A1EF-878C-63FEA77DC9E9</DocumentID>
+	<Name>28DFEB6B-98A5-A1EF-878C-63FEA77DC9E9</Name>
+	<Description>Claim details</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-05-30T03:11:07.078</CreationDate>
+	<Notes/>
+	<DefaultText>Claim details</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="28DFEB6B-98A5-A1EF-8742-4F15A9BF89E9"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="28DFEB6B-98A5-A1EF-878C-63FEA77E49E9"
+		/>
+	</Translations>
+</TextIdentifier>
