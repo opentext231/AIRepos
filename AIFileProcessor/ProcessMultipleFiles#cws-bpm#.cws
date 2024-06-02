@@ -155,7 +155,7 @@
 							width="35"
 							height="25"
 							x="0"
-							y="-3.5"
+							y="0"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -285,7 +285,7 @@
 							width="35"
 							height="25"
 							x="13"
-							y="-3.5"
+							y="0"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -338,7 +338,7 @@
 							width="35"
 							height="25"
 							x="13"
-							y="-3.5"
+							y="0"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -391,7 +391,7 @@
 							width="35"
 							height="25"
 							x="13"
-							y="-3.5"
+							y="0"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -452,7 +452,7 @@
 							width="35"
 							height="25"
 							x="13"
-							y="-3.5"
+							y="0"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -526,7 +526,7 @@
 							width="35"
 							height="25"
 							x="13"
-							y="-3.5"
+							y="0"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -1295,7 +1295,7 @@
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
 			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
-			<SoapRequestTimeOut></SoapRequestTimeOut>
+			<SoapRequestTimeOut>300</SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<UseRetryCondition>none</UseRetryCondition>
@@ -1407,7 +1407,7 @@
 								operation="Replace Content With"
 								operation2="Fixed Value"
 								isNillable="false">
-								<sourceAssign>Describe the image</sourceAssign>
+								<sourceAssign>Assess the images and video and provide damage inputs to cheat sheet</sourceAssign>
 							</mapping>
 							<mapping
 								sourceId=""
@@ -2869,7 +2869,7 @@
 			<Notes/>
 			<dataObject/>
 			<height></height>
-			<htmlChildPosition>33</htmlChildPosition>
+			<htmlChildPosition>13</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
